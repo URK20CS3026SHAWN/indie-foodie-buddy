@@ -1,7 +1,7 @@
 [project]
-name = "yoga-poses-recommender-python"
+name = "indie-foodie-buddy-python"
 version = "0.1.0"
-description = "A Flask Web Application that demonstrates how to do Vector Search on a Yoga Poses database in Firestore"
+description = "A Flask Web Application that demonstrates how to do Vector Search on a Food Options database in Firestore"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [

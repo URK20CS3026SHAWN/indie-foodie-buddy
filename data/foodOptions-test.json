@@ -1,0 +1,187 @@
+[
+  {
+    "name": "Butter Chicken",
+    "origin": "North Indian",
+    "preference": "Non-Vegetarian"
+  },
+  {
+    "name": "Dal Makhani",
+    "origin": "North Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Paneer Tikka",
+    "origin": "North Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Idli",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Vada",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Sambar",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Uttapam",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Dosa",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Rasam",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Upma",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Poha",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Pongal",
+    "origin": "South Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Ghooghra",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Mohanthal",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Sutarfeni",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Chakri",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Bhakhri",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Puran Poli",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Misal Pav",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Thalipeeth",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Zunka Bhakar",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Sabudana Khichdi",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Batata Vada",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Kothimbir Vadi",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Bharli Vangi",
+    "origin": "West Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Mantecados",
+    "origin": "East Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Rosc\u00f3n de Reyes",
+    "origin": "East Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Tostada",
+    "origin": "East Indian",
+    "preference": "Vegetarian"
+  },
+  {
+    "name": "Bocadillo",
+    "origin": "East Indian",
+    "preference": "Both"
+  },
+  {
+    "name": "Empanadas",
+    "origin": "East Indian",
+    "preference": "Both"
+  },
+  {
+    "name": "Croquetas",
+    "origin": "East Indian",
+    "preference": "Both"
+  },
+  {
+    "name": "Huevos Rotos",
+    "origin": "East Indian",
+    "preference": "Non-Vegetarian"
+  },
+  {
+    "name": "Turkey Burger",
+    "origin": "American",
+    "preference": "Non-Vegetarian"
+  },
+  {
+    "name": "Chicken Sandwich",
+    "origin": "American",
+    "preference": "Non-Vegetarian"
+  },
+  {
+    "name": "Fried Chicken",
+    "origin": "American",
+    "preference": "Non-Vegetarian"
+  },
+  {
+    "name": "Chicken Nuggets",
+    "origin": "American",
+    "preference": "Non-Vegetarian"
+  },
+  {
+    "name": "Hot Dog",
+    "origin": "American",
+    "preference": "Non-Vegetarian"
+  }
+]

@@ -1,0 +1,7492 @@
+[
+  {
+      "name": "Butter Chicken",
+      "origin": "North Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Dal Makhani",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Paneer Tikka",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Aloo Gobi",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Saag Paneer",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chole Bhature",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rajma Chawal",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rogan Josh",
+      "origin": "North Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Lucknowi Biryani",
+      "origin": "North Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Naan",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Roti",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kofta Curry",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Malai Kofta",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tandoori Chicken",
+      "origin": "North Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Seekh Kebab",
+      "origin": "North Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Shahi Paneer",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Palak Paneer",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Baingan Bharta",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bhindi Masala",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Aloo Matar",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vegetable Pulao",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chicken Tikka Masala",
+      "origin": "North Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Dal Tadka",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Matar Paneer",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kadhi Pakora",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lassi",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gulab Jamun",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jalebi",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rasgulla",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Barfi",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gajar Halwa",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Moong Dal Halwa",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Petha",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Imarti",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Phirni",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rabri",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Samosa",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pakora",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Aloo Tikki",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Papri Chaat",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dahi Bhalla",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gol Gappa",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sev Puri",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bhel Puri",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pav Bhaji",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vada Pav",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pani Puri",
+      "origin": "North Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Masala Dosa",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Idli",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vada",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sambar",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Uttapam",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dosa",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rasam",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Upma",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Poha",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pongal",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Appam",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Idiyappam",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chettinad Chicken",
+      "origin": "South Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Meen Curry",
+      "origin": "South Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hyderabadi Biryani",
+      "origin": "South Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kerala Fish Curry",
+      "origin": "South Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chicken Chettinad",
+      "origin": "South Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mutton Curry",
+      "origin": "South Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Egg Curry",
+      "origin": "South Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Vegetable Biryani",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lemon Rice",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Coconut Rice",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tomato Rice",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Curd Rice",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bisibele Bath",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Avial",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kootu",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Poriyal",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vangi Bath",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Puliyodharai",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Payasam",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kesari",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mysore Pak",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jangiri",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Athirasam",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Seedai",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thattai",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Murukku",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bonda",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bajji",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rava Kesari",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Semiya Upma",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Adai",
+      "origin": "South Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kachori",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dhokla",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khandvi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thepla",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fafda",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jalebi Fafda",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Undhiyu",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Handvo",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Patra",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sev Khamani",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Locho",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gota",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khakhra",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chivda",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shrikhand",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Basundi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ghooghra",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mohanthal",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sutarfeni",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chakri",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bhakhri",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Puran Poli",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Misal Pav",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thalipeeth",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zunka Bhakar",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sabudana Khichdi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Batata Vada",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kothimbir Vadi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bharli Vangi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Amti",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pithla Bhakar",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shira",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Modak",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gul Poli",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sheera",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ladoo",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chikki",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ragda Pattice",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dabeli",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bombay Sandwich",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Usal Pav",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Patrel",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Muthiya",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khaman Dhokla",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Suriya",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dal Dhokli",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lilva Kachori",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Methi Thepla",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Churma Ladoo",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kansar",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Magaj",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ghevar",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shankarpali",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Anarsa",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Narali Purnima Special",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kolambi Bhaat",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Malvani Fish Curry",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Goan Fish Curry",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Saoji Mutton",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pandhra Rassa",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tambda Rassa",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chicken Sukka",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mutton Sukka",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bombil Fry",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tisrya Masala",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Crab Curry",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Prawn Curry",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chicken Vindaloo",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mutton Xacuti",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sorpotel",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chourico",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Shark Ambotik",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chicken Cafreal",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pork Vindaloo",
+      "origin": "West Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bebinca",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dodol",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Patoleo",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sannas",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Alle Belle",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khajur Barfi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Naralachi Wadi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tilgul Ladoo",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shevaya Chi Kheer",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sabudanyachi Kheer",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ukadiche Modak",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Karanji",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chirote",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Besan Ladoo",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rava Ladoo",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Peda",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shrikhand Puri",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Masala Bhat",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Varan Bhat",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dalimbi Bhaat",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tomato Saar",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Solkadhi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kadhi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Panchamrut",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Amrakhand",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jhunka",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pitla",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Valachi Bhaji",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Methichi Bhaji",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Palakichi Bhaji",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shenga Chutney",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thecha",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lonche",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Limbu Lonche",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Amla Lonche",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mirchi Cha Thecha",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kanda Bhaji",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Medu Vada",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sabudana Vada",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sheera Upma",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bhakri Pitla",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jowar Bhakri",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bajra Bhakri",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nachni Bhakri",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Amboli",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ghavane",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Puri Bhaji",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dal Vada",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Besan Sheera",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rava Sheera",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pedha",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Halwa",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kheer",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chakli",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sev",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gathiya",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Papdi",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Farsan",
+      "origin": "West Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arroz de Pato",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Leit\u00e3o Assado",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Carne de Porco \u00e0 Alentejana",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ameijoas \u00e0 Bulh\u00e3o Pato",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Arroz de Tamboril",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Choco Frito",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Espetada",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Picado",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Prego no P\u00e3o",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bitoque",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sopa de Pedra",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gazpacho",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tortilla de Patatas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Paella",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Tapas",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Sangria",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Crema Catalana",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Churros",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fabada Asturiana",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pulpo a la Gallega",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Salmorejo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Patatas Bravas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gambas al Ajillo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tumbet",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fideu\u00e0",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Escalivada",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pisto",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arroz Negro",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sopa Mallorquina",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ensaimada",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Turr\u00f3n",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Leche Frita",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tarta de Santiago",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Goxua",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arroz con Leche",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Natillas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Polvorones",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mantecados",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rosc\u00f3n de Reyes",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tostada",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bocadillo",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Empanadas",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Croquetas",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Huevos Rotos",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Migas",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Sopa de Ajo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Puchero",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Callos",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cordero Asado",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cochinillo Asado",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Conejo al Ajillo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Merluza a la Vasca",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bacalao al Pil Pil",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Marmitako",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Angulas a la Bilba\u00edna",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Txangurro a la Donostiarra",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Percebes",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Centollo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "N\u00e9cora",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Oricios",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sidra",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vino Tinto",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vino Blanco",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cava",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Orujo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hierbas Ibicencas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pachar\u00e1n",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Horchata",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Granizado",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Caf\u00e9 con Leche",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chocolate a la Taza",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Infusiones",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Agua de Valencia",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Clara",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tinto de Verano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rebujito",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zurracapote",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queimada",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mistela",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "An\u00eds",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ron Miel",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Crema de Orujo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Licor de Bellota",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Licor 43",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sidra Asturiana",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vino de Jerez",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Manzanilla",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fino",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Amontillado",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Oloroso",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pedro Xim\u00e9nez",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Palo Cortado",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vinagre de Jerez",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Aceite de Oliva Virgen Extra",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jam\u00f3n Ib\u00e9rico",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chorizo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Salchich\u00f3n",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Lomo Embuchado",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Morcilla",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sobrasada",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fuet",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cecina",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Queso Manchego",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Idiazabal",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Torta del Casar",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Mah\u00f3n",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Tetilla",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Zamorano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Roncal",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Cabrales",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Albondigas",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Callos a la Madrile\u00f1a",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sopa Castellana",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Trucha a la Navarra",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bacalao a la Vizca\u00edna",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Merluza en Salsa Verde",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kokotxas",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chipirones en su Tinta",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Filloas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mel i Mat\u00f3",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Panellets",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Xuixo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Crema Quemada",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pastel Vasco",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pantxineta",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Intxaursaltsa",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "G\u00e2teau Basque",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tarta de Queso",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Flan de Huevo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Torrijas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bu\u00f1uelos",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Huesos de Santo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mazap\u00e1n",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Polvorones de Almendra",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rosquillas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sobaos Pasiegos",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Quesada Pasiega",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arroz a la Zamorana",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sopa de Trucha",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Lechazo Churro",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Patatas a la Importancia",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Judiones de la Granja",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sopa de Almendras",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ponche Segoviano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yemas de Santa Teresa",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hornazo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Empanada Gallega",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Caldo Gallego",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Lac\u00f3n con Grelos",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Frixuelos",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Casadielles",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fabes con Almejas",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pix\u00edn",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Arroz con Pitu",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bollos Pre\u00f1aos",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sopa de Cebolla",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Setas Salteadas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pimientos de Padr\u00f3n",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zorza",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Androlla",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chourizo Galego",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Queixo do Cebreiro",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Torta de Mondo\u00f1edo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ca\u00f1a de Lomo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Morc\u00f3n Ib\u00e9rico",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Lomo de Cebo Ib\u00e9rico",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Paleta Ib\u00e9rica",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Salchicha Ib\u00e9rica",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Butifarra",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Longaniza",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sobrasada de Cerdo Negro",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Queso de Burgos",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Camerano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Nata de Cantabria",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Palmero",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Queso Majorero",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gofio",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Papas Arrugadas",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mojo Pic\u00f3n",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sancocho Canario",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ropa Vieja",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bienmesabe",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Frangollo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Truchas de Batata",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Torta Canaria",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vino Malvas\u00eda",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Barraquito",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rosquillas de An\u00eds",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Melindros",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pa amb Tom\u00e0quet",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Escudella i Carn d'Olla",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Suquet de Peix",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Canelons",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fricand\u00f3",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Allioli",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Samfaina",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Esqueixada",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cal\u00e7ots",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Romesco",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Coca de Recapte",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Caracoles a la Llauna",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bunyols de Bacall\u00e0",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Crema de Sant Josep",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mona de Pascua",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Orelletes",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vi Ranci",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cava Catal\u00e0",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Porr\u00f3",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Aguardiente",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "An\u00eds del Mono",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vermut de Reus",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gambas de Palam\u00f3s",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Anchoas de L'Escala",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ostras del Delta del Ebro",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Arroz del Delta del Ebro",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Carxofes de Benicarl\u00f3",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Naranjas de Valencia",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Turr\u00f3n de Jijona",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Turr\u00f3n de Alicante",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Peladillas de Casinos",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arroz a Banda",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fesols i Arr\u00f2s",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "All i Pebre",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Esgarraet",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Horchata de Chufa",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arnadi",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Coca de Llanda",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pastel de Boniato",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mistela de Moscatel",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Herbero",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cantucci",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tiramisu",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Panna Cotta",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gelato",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Granita",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cannoli",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zeppole",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sfogliatella",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cassata",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pandoro",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Panettone",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Torrone",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Biscotti",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Amaretti",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Semifreddo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zabaglione",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Affogato",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bomboloni",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Focaccia",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ciabatta",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Grissini",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Polenta",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Risotto",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gnocchi",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ravioli",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lasagna",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Spaghetti Carbonara",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Spaghetti Aglio e Olio",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pesto",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arrabbiata",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Alfredo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bolognese",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Marinara",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vodka Sauce",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cacio e Pepe",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Frutti di Mare",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Puttanesca",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Amatriciana",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Norma",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Primavera",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Funghi",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Quattro Formaggi",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Diavolo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Margherita",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pepperoni",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Vegetariana",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Capricciosa",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hawaiian",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Quattro Stagioni",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Marinara Pizza",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bianca Pizza",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Calzone",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Focaccia Pizza",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sfincione",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pugliese Pizza",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Romana Pizza",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tonda Romana",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pizza al Taglio",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Arancini",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Bruschetta",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Caprese Salad",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Antipasto",
+      "origin": "East Indian",
+      "preference": "Both"
+  },
+  {
+      "name": "Minestrone",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ribollita",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pappa al Pomodoro",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pasta e Fagioli",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tortellini in Brodo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Passatelli in Brodo",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Zuppa di Pesce",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Osso Buco",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Saltimbocca",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bistecca alla Fiorentina",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pollo alla Cacciatora",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Coniglio all'Ischitana",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Involtini",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Salsiccia",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mortadella",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Prosciutto",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Speck",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pancetta",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Guanciale",
+      "origin": "East Indian",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Parmigiano-Reggiano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pecorino Romano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mozzarella di Bufala",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "otta",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fontina",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gorgonzola",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mascarpone",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Taleggio",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Burrata",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Scamorza",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Caciocavallo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Feta (Italian Style)",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Provolone",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Asiago",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Grana Padano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Montasio",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Piave",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ragusano",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sardinian Pecorino",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tuscan Pecorino",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Umbrian Pecorino",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Valle d'Aosta Fromadzo",
+      "origin": "East Indian",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Burger",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cheeseburger",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hamburger",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Double Cheeseburger",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bacon Cheeseburger",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Veggie Burger",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Turkey Burger",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chicken Sandwich",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fried Chicken",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chicken Nuggets",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hot Dog",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Corn Dog",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "French Fries",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Onion Rings",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tater Tots",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pizza (American Style)",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Deep Dish Pizza",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "New York Style Pizza",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Philly Cheesesteak",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "BLT Sandwich",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Grilled Cheese",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mac and Cheese",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chili",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Nachos",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Taco (American Style)",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Burrito (American Style)",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Quesadilla (American Style)",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Milkshake",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ice Cream Sundae",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Apple Pie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Brownie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chocolate Chip Cookie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pancake",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Waffle",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Doughnut",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Muffin",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Biscuit",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cornbread",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Coleslaw",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Potato Salad",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Caesar Salad",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cobb Salad",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Buffalo Wings",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chicken Tenders",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fish and Chips",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Clam Chowder",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Lobster Roll",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Key Lime Pie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pecan Pie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cheesecake",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "S'mores",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Root Beer Float",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lemonade",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Iced Tea",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Soda",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Juice",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bagel",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pretzel",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Popcorn",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cotton Candy",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Caramel Apple",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Funnel Cake",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Twinkie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cupcake",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Donut Hole",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Slushie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Smoothie",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Corn on the Cob",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Baked Beans",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mashed Potatoes",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gravy",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Stuffing",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Cranberry Sauce",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Green Bean Casserole",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sweet Potato Casserole",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Deviled Eggs",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ambrosia Salad",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jell-O Salad",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Waldorf Salad",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "BLT Salad",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tuna Salad Sandwich",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Egg Salad Sandwich",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Peanut Butter and Jelly Sandwich",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Meatloaf",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pot Roast",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Steak",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ribs",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pulled Pork Sandwich",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Barbecue Chicken",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Shrimp Scampi (American Style)",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Crab Cakes",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Oysters Rockefeller",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gumbo",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Jambalaya",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Po' Boy Sandwich",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Beignets",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bananas Foster",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bread Pudding",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cobbler",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Crisp",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pie (Sweet)",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tart",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cake",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Candy Bar",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Breakfast Sausage",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bacon",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Scrambled Eggs",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Omelette",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Frittata",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hash Browns",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Grits",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Biscuits and Gravy",
+      "origin": "American",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Breakfast Burrito",
+      "origin": "American",
+      "preference": "Both"
+  },
+  {
+      "name": "Cereal",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yogurt Parfait",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fruit Salad",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Smoothie Bowl",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Avocado Toast",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Diner Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sweet Tea",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arnold Palmer",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Milk",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Orange Juice",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Grapefruit Juice",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cranberry Juice",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Apple Juice",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hot Chocolate",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Espresso",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cappuccino",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Latte",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mocha",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Americano",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Iced Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Frappuccino",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Red Eye Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Black Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Decaf Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Espresso Macchiato",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Espresso Con Panna",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Irish Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cold Brew Coffee",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nitro Cold Brew",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Affogato (American Style)",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Smoothie (American Style)",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Milkshake (American Style)",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Malt",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Egg Cream",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Float (Soda)",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Slushie (American Style)",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ice Cream Soda",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lime Rickey",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shirley Temple",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Roy Rogers",
+      "origin": "American",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Steak Frites",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Coq au Vin",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Boeuf Bourguignon",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ratatouille",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Quiche Lorraine",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Soupe \u00e0 l'oignon",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cr\u00eapes",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Escargots",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Foie Gras",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Confit de Canard",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bouillabaisse",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Salad Ni\u00e7oise",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Croque Monsieur",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Croque Madame",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Moules Marini\u00e8res",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tarte Tatin",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Macarons",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cr\u00e8me br\u00fbl\u00e9e",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Profiteroles",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Clafoutis",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Madeleines",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pain au Chocolat",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pain aux Raisins",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Baguette",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Brioche",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hollandaise Sauce",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "B\u00e9chamel Sauce",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vinaigrette",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mayonnaise",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Dijon Mustard",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "P\u00e2t\u00e9",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Terrine",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Rillettes",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Quenelles",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Blanquette de Veau",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pot-au-feu",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cassoulet",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Souffl\u00e9",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Gratin Dauphinois",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tartiflette",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Raclette",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fondue Savoyarde",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Choucroute Garnie",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Flammekueche",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bratwurst",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sauerkraut",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Schnitzel",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Apfelstrudel",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sachertorte",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Black Forest Cake",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Goulash",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Spaetzle",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rouladen",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "K\u00f6nigsberger Klopse",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Stollen",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lebkuchen",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pretzel (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sauce Hollandaise",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sauce B\u00e9arnaise",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sauce Bordelaise",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sauce Mornay",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Aioli",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tapenade",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pissaladi\u00e8re",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fougasse",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Soupe de Poisson",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Cr\u00e8me Vichyssoise",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Consomm\u00e9",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bisque",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gazpacho (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Paella (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Tapas (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Tortilla Espa\u00f1ola",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sangria (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Crema Catalana (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Churros (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Risotto (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Polenta (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gnocchi (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Osso Buco (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tiramisu (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Panna Cotta (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gelato (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pasta (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Lasagna (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ravioli (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cannelloni (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Minestrone (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Antipasto (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Carpaccio",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Vitello Tonnato",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bagna Cauda",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Focaccia (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ciabatta (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bruschetta (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arancini (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Panzanella",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Caprese Salad (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Insalata Mista",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Polenta Taragna",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gnocchi alla Sorrentina",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tortellini in Brodo (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pesto Genovese",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Carbonara (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Aglio e Olio (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Marinara Sauce (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bolognese Sauce (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Alfredo Sauce (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arrabbiata Sauce (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vodka Sauce (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cacio e Pepe (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Frutti di Mare (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Puttanesca (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Amatriciana (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Norma Pasta (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Primavera Pasta (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Funghi Pasta (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Quattro Formaggi Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Diavolo Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Margherita Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pepperoni Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Vegetariana Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Capricciosa Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hawaiian Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Quattro Stagioni Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Marinara Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bianca Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Calzone (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Focaccia Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sfincione (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pugliese Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Romana Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tonda Romana Pizza (Continental)",
+      "origin": "Continental",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pizza al Taglio (Continental)",
+      "origin": "Continental",
+      "preference": "Both"
+  },
+  {
+      "name": "Thai Green Curry",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Thai Red Curry",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Pad Thai",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Tom Yum Soup",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Tom Kha Gai",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Massaman Curry",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Panang Curry",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Pad See Ew",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Pad Kee Mao",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Som Tum",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khao Pad",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Gaeng Keow Wan Gai",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pla Rad Prik",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Satay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Spring Rolls (Thai)",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Green Papaya Salad",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mango Sticky Rice",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thai Iced Tea",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thai Iced Coffee",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Larb",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Yum Woon Sen",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gaeng Daeng",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Khao Niao Mamuang",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hor Mok Pla",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat kaphrao",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Kai Med Ma Muang Himmapan",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pla Neung Ma Nao",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gaeng Som",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mee Grob",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Sai Oua",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gaeng Hung Lay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Soi",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Si Io",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Yum Pla Duk Foo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pla Chon Lui Suan",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Nam Tok",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sai Krok Isan",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Panaeng Nuea",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gaeng Pa",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Woonsen",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Khao Pad Sapparot",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Miang Kham",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Krok",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Roti Gluay",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tub Tim Grob",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lod Chong",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bua Loy",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Chan",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fak Thong Sung Kaya",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Tom",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khao Lam",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Buang",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Look Choup",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thong Yip",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Thong Yot",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Foi Thong",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Med Kanoon",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sangkhaya Fak Thong",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sangkhaya Bai Toey",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Tan",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Mo Kaeng",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khao Niao Sangkhaya",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Kluay",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Pang Na Moo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Poo Pad Phong Karee",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Goong Chae Nam Pla",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pla Muk Pad Prik Pao",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hoy Shell Pad Cha",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pla Kapong Neung See Ew",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Yam Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tom Saap",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gaeng Jued",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Phat Pet Moo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Prik King",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Phat Ruam Mit",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Phat Makheua Yao",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tao Hoo Song Kreuang",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gaeng Liang",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Phat Fak Thong Sai Kai",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Bai Horapha",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Phat See Ew Sen Yai",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Phat Thai Goong Sot",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Pad Kai",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Pad Moo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Pad Goong",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Pad Sapparot Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Man Gai",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ba Mee Moo Daeng",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kuay Teow Reua",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Yen Ta Fo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kuay Teow Lui Suan",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sakoo Sai Moo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tao Hoo Tod",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pia Tod",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Goong Tod Gratiem",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Moo Ping",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gai Yang",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pla Pao",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hoy Ob Mor Din",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Yam Mamuang",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yam Pla Dook",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Yam Moo Yor",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Som Tum Kai Kem",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Som Tum Pla Ra",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gaeng Keow Wan Pla",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Gaeng Daeng Ped",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Panaeng Gai",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Massaman Nuea",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tom Yum Goong",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tom Kha Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pad See Ew Moo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pad Kee Mao Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Pad Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Hor Mok Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Kaphrao Moo",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Prik King Moo Krob",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Ruam Mit Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Makheua Yao Moo Sab",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tao Hoo Pad Med Mamuang",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gaeng Liang Goong Sot",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Fak Thong Sai Goong",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Bai Horapha Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phat Woonsen Talay",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khao Pad Sapparot Goong",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Miang Pla Pao",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khanom Jeen Nam Ya",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khanom Jeen Gaeng Keow Wan",
+      "origin": "Thai",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Khanom Jeen Nam Prik",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Khanom Pang Sangkhaya",
+      "origin": "Thai",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Roti Mataba",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Khao Chae",
+      "origin": "Thai",
+      "preference": "Both"
+  },
+  {
+      "name": "Momo (Steamed)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Momo (Fried)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Momo (C-Momo)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Thukpa",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Thenthuk",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Gyathuk",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Shapta",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Phing Sha",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Laping",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tingmo",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Balep Korkun",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tsampa",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Butter Tea",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chang",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sel Roti",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dal Bhat",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dhindo",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gundruk",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sinki",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Aloo Tama",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Wai Wai Sadeko",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chiya",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Raksi",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tongba",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jhol Momo",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Kothey Momo",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Sandheko Momo",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Alu Chop",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pakora (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chana Masala (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Saag (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Paneer Curry (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chicken Curry (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mutton Curry (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fish Curry (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mixed Vegetable Curry (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fried Rice (Tibetan/Nepali)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Noodles (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Soup (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Pickle (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chutney (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Raita (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Salad (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sweet Yogurt (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lassi (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tea (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Coffee (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Juice (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bread (Tibetan/Nepali Style)",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Noodle Soup",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Flat Noodles",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Stir-Fried Noodles",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Steamed Buns",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fried Bread",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Potato Cakes",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vegetable Fritters",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Chickpea Curry",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Leafy Greens",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cottage Cheese Curry",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Meat Curry",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Seafood Curry",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mixed Vegetable Curry",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pilaf",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Stir-Fried Rice",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Clear Soup",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Spicy Pickle",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sweet Chutney",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yogurt Dip",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Green Salad",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sweetened Yogurt",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Buttermilk",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Black Tea",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fruit Juice",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Leavened Flatbread",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fried Dough",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Spicy Dumplings in Broth",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Pan-Fried Dumplings",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Fermented Dumplings",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Potato Fritters",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mixed Fritters",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Spiced Chickpeas",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cooked Greens",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Spiced Cottage Cheese",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Braised Meat",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Curried Seafood",
+      "origin": "Tibetan / Nepali",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Assorted Vegetables",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Savory Rice Dish",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Wok-Fried Rice",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Clear Broth",
+      "origin": "Tibetan / Nepali",
+      "preference": "Both"
+  },
+  {
+      "name": "Hot Pickle",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tangy Chutney",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mint Yogurt Dip",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mixed Leaf Salad",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sweetened Curd",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Salted Lassi",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Herbal Tea",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Instant Coffee",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pressed Juice",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Unleavened Bread",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Deep-Fried Bread",
+      "origin": "Tibetan / Nepali",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Quesadilla",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Taco",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Burrito",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Enchilada",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Fajita",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Chimichanga",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Salsa",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Guacamole",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Refried Beans",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mexican Rice",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Corn Tortilla",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Flour Tortilla",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sour Cream",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pico de Gallo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jalape\u00f1o Popper",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Taquito",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Tamale",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Chili con Carne",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Arroz con Pollo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Carnitas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Barbacoa",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ceviche",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Margarita",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mexican Beer",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Churro",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Flan",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sopa de Tortilla",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pozole",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mole",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Guacamole Salad",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Elote",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Esquites",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Empanada",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Chilaquiles",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Huevos Rancheros",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Picadillo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Frijoles Charros",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sopa de Fideo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Camarones a la Diabla",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pescado Veracruzana",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tres Leches Cake",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sopapilla",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Paletas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Atole",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Champurrado",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cafe de Olla",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Agua Fresca",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Torta",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Gordita",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Huarache",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Sope",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Chalupa",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Chile Relleno",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Enmoladas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Entomatadas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Flautas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Tamales Dulces",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Romeritos",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nopales",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rajas Poblanas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Esquites con Tu\u00e9tano",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tlayuda",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Memelas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Pambazo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Cochinita Pibil",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Lechon Asado",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pollo en Mole Negro",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chiles en Nogada",
+      "origin": "Mexican (Adapted)",
+      "preference": "Both"
+  },
+  {
+      "name": "Manchamanteles",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Birria",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Menudo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pozole Rojo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pozole Verde",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Caldo de Res",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Caldo de Pollo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sopa de Lentejas",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sopa de Elote",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ensalada de Nopales",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Papas con Chorizo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Frijoles Refritos con Queso",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arroz a la Mexicana",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pescado Empapelado",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Pulpo Enamorado",
+      "origin": "Mexican (Adapted)",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Capirotada",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ate",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cajeta",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Garbanzos Enchilados",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jamaica",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tamarindo",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Horchata de Arroz",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Agua de Melon",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Agua de Sandia",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tepache",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pulque",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mezcal",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tequila",
+      "origin": "Mexican (Adapted)",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Moussaka",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Hummus",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Falafel",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shawarma",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kebab",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tabouleh",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Baba Ghanoush",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pita Bread",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Baklava",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Knafeh",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ma'amoul",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Basbousa",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Umm Ali",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Turkish Delight",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Saffron Rice",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Couscous",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tagine",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Mansaf",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mujadara",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kofta",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Dolma",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Fatayer",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Manakeesh",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Labneh",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ful Medames",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Shakshuka",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tabbouleh",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kibbeh",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sambousek",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Mahshi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Freekeh",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Molokhia",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sayadieh",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Qatayef",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hareeseh",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ghraybeh",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kahk",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Luqaimat",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kunafa",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Halva",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sahlab",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Jallab",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Qamar al-Din",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rosewater Lemonade",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arabic Coffee",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mint Tea",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sumac Salad",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fattoush",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Watermelon Salad with Feta and Mint",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lentil Soup",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Harira",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Adas Bil Hamod",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kushari",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fatteh",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Maqluba",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sayyadiyah",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Bamieh",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Mandi",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Zereshk Polo",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ghormeh Sabzi",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Joojeh Kabob",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Koobideh",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Chelo Kabob",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tahdig",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ash Reshteh",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dolmeh Barg",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kuku Sabzi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Adas Polo",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Baghali Polo",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Fesenjan",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Shish Barak",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Manti",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "G\u00f6zleme",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Pide",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Lahmacun",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Iskender Kebap",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Adana Kebap",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Urfa Kebap",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "D\u00f6ner Kebap",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mercimek \u00c7orbas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ezogelin \u00c7orbas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yayla \u00c7orbas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u0130mam Bay\u0131ld\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yaprak Sarma",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "M\u00fccver",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sigara B\u00f6re\u011fi",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Su B\u00f6re\u011fi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "K\u0131s\u0131r",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gavurda\u011f\u0131 Salatas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Piyaz",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kunefe",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "S\u00fctla\u00e7",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kazandibi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "G\u00fclla\u00e7",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "A\u015fure",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lokma",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u015eekerpare",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "K\u00fcnefe",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tulum Peyniri",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Beyaz Peynir",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ka\u015far Peyniri",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ayran",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u015ealgam Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Boza",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Salep",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nar Ek\u015fili Salata",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Muhammara",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kisir",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ezme Salata",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Humus",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tahinli Piyaz",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Patl\u0131can Salatas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Atom",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kokore\u00e7",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Midye Dolma",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "\u0130\u015fkembe \u00c7orbas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kelle Pa\u00e7a \u00c7orbas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ci\u011fer Tava",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Adana D\u00fcr\u00fcm",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Urfa D\u00fcr\u00fcm",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Tavuk \u015ei\u015f",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Kuzu \u015ei\u015f",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Be\u011fendi",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "H\u00fcnkar Be\u011fendi",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Ali Nazik",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Testi Kebab\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Sarma",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Karn\u0131yar\u0131k",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Mantarl\u0131 G\u00f6zleme",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Peynirli Pide",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sebzeli Lahmacun",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zeytinya\u011fl\u0131 Yaprak Sarma",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zeytinya\u011fl\u0131 Enginar",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zeytinya\u011fl\u0131 Barbunya",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zeytinya\u011fl\u0131 Taze Fasulye",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kabak \u00c7i\u00e7e\u011fi Dolmas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ispanakl\u0131 Kol B\u00f6re\u011fi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Patatesli G\u00f6zleme",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mercimek K\u00f6ftesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bulgur Pilav\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kuskus Salatas\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "M\u0131s\u0131r Unlu Ekmek",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Simit",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Po\u011fa\u00e7a",
+      "origin": "Middle Eastern",
+      "preference": "Both"
+  },
+  {
+      "name": "Katmer",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pi\u015fmaniye",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cezerye",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Macun",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u015eerbet",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "T\u00fcrk Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nargile",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zahter",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nar Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Demirhindi \u015eerbeti",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Meyan \u015eerbeti",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Limonata",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "S\u0131kma Portakal Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Vi\u015fne Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kay\u0131s\u0131 Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u015eeftali Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Elma Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u00dcz\u00fcm Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Karpuz Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u00c7ilek Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ahududu Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "B\u00f6\u011f\u00fcrtlen Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kiraz Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Erik Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ayva Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u0130ncir Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hurma Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Trabzon Hurmas\u0131 Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Greyfurt Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mandalina Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ananas Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mango Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kivi Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Muz Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Avokado Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Hindistan Cevizi Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Badem S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "F\u0131nd\u0131k S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ceviz S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Susam S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ha\u015fha\u015f S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pirin\u00e7 S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yulaf S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Soya S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kinoa S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Amarant S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kenevir S\u00fct\u00fc",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kavun Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Balkaba\u011f\u0131 Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Havu\u00e7 Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pancar Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Salatal\u0131k Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Domates Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Biber Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ispanak Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Maydanoz Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nane Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zencefil Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zerde\u00e7al Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tar\u00e7\u0131n Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Karanfil Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kakule Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kimyon Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ki\u015fni\u015f Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rezene Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Anason Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Defne Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Biberiye Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kekik Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mercank\u00f6\u015fk Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ada\u00e7ay\u0131 Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Papatya Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ihlamur Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "G\u00fcl Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lavanta Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yasemin Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Menek\u015fe Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nil\u00fcfer Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zambak Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "S\u00fcmb\u00fcl Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lale Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kardelen Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u00c7i\u011fdem Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nergis Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Gelincik Suyu",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Papatya \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ada\u00e7ay\u0131 \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ihlamur \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ye\u015fil \u00c7ay",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Beyaz \u00c7ay",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Oolong \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Siyah \u00c7ay",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Earl Grey \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "English Breakfast \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "T\u00fcrk \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fas Nane \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "L\u00fcbnan Limon Nane \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "M\u0131s\u0131r Hibiskus \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u0130ran G\u00fcl \u00c7ay\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Yemen Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Etiyopya Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Filistin Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "\u00dcrd\u00fcn Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Suriye Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Irak Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Suudi Arabistan Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Kuveyt Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Katar Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bahreyn Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Umman Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Birle\u015fik Arap Emirlikleri Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Libya Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tunus Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cezayir Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fas Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sudan Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Somali Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Djibouti Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Eritre Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bat\u0131 Sahra Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Moritanya Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "M\u0131s\u0131r Kahvesi",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "T\u00fcrk Rak\u0131s\u0131",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Arak",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mahia",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Boukha",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sharbat",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Rose Syrup",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Orange Blossom Water",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pomegranate Molasses",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tamarind Paste",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Date Syrup",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Fig Jam",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Apricot Jam",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Quince Jam",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mulberry Jam",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sour Cherry Jam",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Walnut Jam",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pistachio Paste",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tahini",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Molasses",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Honey",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Olive Oil",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ghee",
+      "origin": "Middle Eastern",
+      "preference": "Non-Vegetarian"
+  },
+  {
+      "name": "Saffron",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sumac",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Za'atar",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cumin",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Coriander",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cardamom",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Nutmeg",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Clove",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cinnamon",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Turmeric",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Ginger",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Sesame Seeds",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pine Nuts",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Almonds",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Walnuts",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pistachios",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dates",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Figs",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Apricots",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Raisins",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Pomegranates",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lemons",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Limes",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Oranges",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Mint",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Parsley",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cilantro",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Dill",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Onions",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Garlic",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Tomatoes",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Cucumbers",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Eggplant",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Zucchini",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Bell Peppers",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Okra",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Halloumi Cheese",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Lavash Bread",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  },
+  {
+      "name": "Naan Bread",
+      "origin": "Middle Eastern",
+      "preference": "Vegetarian"
+  }
+]
