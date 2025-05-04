@@ -1,3 +1,6 @@
+import json
+import time
+import os
 import logging
 from settings import get_settings
 import vertexai
@@ -54,7 +57,7 @@ def generate_food_image(food):
     """Generates a image of the food based on the food[name], food[origin], food[preference]."""
     
     food_name, origin, preference = food["name"], food["origin"], food["preference"]
-    prompt = f"Generate a image of {food_name} describing a {origin} origin and which is {preference}"
+    prompt = f"Generate a ultra-realistic image of {food_name} describing its {origin} origin and which is {preference}"
     
     return generate_image(prompt, food_name, True, "food_images")
 
@@ -64,26 +67,66 @@ def add_images_to_json(input_file, output_file):
     with open(input_file, "r") as f:
         food_options = json.load(f)
 
-    total_foods = len(food_options)
+    # Load existing food data from output file, if it exists
+    if os.path.exists(output_file):
+        try:
+            with open(output_file, "r") as of:
+                food_options_covered = json.load(of)
+        except json.JSONDecodeError:
+            print(f"Warning: Invalid JSON in output file.  Overwriting.")
+            logging.warning(f"Invalid JSON in output file. Overwriting.")
+            food_options_covered = []  # Ensure existing_foods is initialized
+    else:
+        print(f"Output file does not exist. Creating a new one.")
+        food_options_covered = []
+
+    # Create a set of food names from the output file for efficient checking.
+    existing_foods = {entry["name"] for entry in food_options_covered}
+
+    total_foods = len(food_options) - len(existing_foods)
     processed_count = 0
+    new_foods_to_add = []  # List to store new foods
+    batch_size = 10
     
     for food in food_options:
-        if "\\" not in food["name"] and food["description"]!="Not a dish" and not food.get("photo_url", ""):
+        if food["name"] not in existing_foods:
+            if "\\" not in food["name"] and food["description"]!="Not a dish" and not food.get("photo_url", ""):
 
-            print(f"\nProcessing: {processed_count+1}/{total_foods} - {food['name']}")
-            start_time = time.time()  # Record start time
+                print(f"\nProcessing: {processed_count+1}/{total_foods} - {food['name']}")
+                start_time = time.time()  # Record start time
 
-            #Generate a image of the food based on the food[name], food[origin], food[preference]
-            generate_food_image(food["name"], food["origin"], food["preference"])
-            processed_count += 1
+                #Generate a image of the food based on the food[name], food[origin], food[preference]
+                generate_food_image(food)
+                processed_count += 1
+                
+                end_time = time.time()  # Record end time
+                time_taken = end_time - start_time
+                logging.info(f"Processed: {processed_count}/{total_foods} - {food['name']} ({time_taken:.2f} seconds)")
+                
+                #Store the image in images
+                image_url = f"https://raw.githubusercontent.com/URK20CS3026SHAWN/indie-foodie-buddy/refs/heads/main/images/food_images/+{food['name']}.png"
+                food["photo_url"] = image_url
             
-            end_time = time.time()  # Record end time
-            time_taken = end_time - start_time
-            logging.info(f"Processed: {processed_count}/{total_foods} - {food['name']} ({time_taken:.2f} seconds)")
-            
-            #Store the image in images
-            image_url = f"https://raw.githubusercontent.com/URK20CS3026SHAWN/indie-foodie-buddy/refs/heads/main/images/food_images/+{food['name']}.png"
-            food["photo_url"] = image_url
+            else:
+                processed_count += 1
+                logging.info(f"Couldnt process: {processed_count}/{total_foods} - {food['name']}")
+            new_foods_to_add.append(food)  # Keep the original food data
+            # Adding a delay to avoid rate limit
+            time.sleep(1)
+
+
+        if (processed_count + 1) % batch_size == 0 or (processed_count + 1) == total_foods:
+            # Append the batch of new foods to the output file
+            food_options_covered.extend(new_foods_to_add)
+            try:
+                with open(output_file, "w") as of:
+                    json.dump(food_options_covered, of, indent=4)
+                print(f"Appended {len(new_foods_to_add)} foods to {output_file}")
+            except Exception as e:
+                print(f"Error writing to output file {output_file}: {e}")
+                return
+            new_foods_to_add = []  # Clear the list for the next batch
+
 
 
 if __name__ == "__main__":
