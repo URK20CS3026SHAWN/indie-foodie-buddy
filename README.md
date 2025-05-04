@@ -18,3 +18,8 @@ The application is a step by step demonstration of the following:
 
 ## Codelab
 You can also check out this codelab to understand this application with this link that provides step by step instructions to run/deploy a similar Yoga Pose Recommender (that I had used as reference to build this app): [codelab](https://codelabs.developers.google.com/yoga-pose-firestore-vectorsearch-python?hl=en#0).
+
+
+## Observation: 
+Gemini Image Generation API seems to be hallucinating when it comes to generating images for Indian Foods. It could be due to a lack of food images in the training Dataset.
+=> Hence I have decided to go ahead with manually adding relevaant images from the internet to a smaller 37 foods dataset for the hosted demo.
