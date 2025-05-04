@@ -104,7 +104,7 @@ def add_images_to_json(input_file, output_file):
                 logging.info(f"Processed: {processed_count}/{total_foods} - {food['name']} ({time_taken:.2f} seconds)")
                 
                 #Store the image in images
-                image_url = f"https://raw.githubusercontent.com/URK20CS3026SHAWN/indie-foodie-buddy/refs/heads/main/images/food_images/+{food['name']}.png"
+                image_url = f"https://raw.githubusercontent.com/URK20CS3026SHAWN/indie-foodie-buddy/refs/heads/main/images/food_images/{food['name'].replace(' ', '%20')}.png"
                 food["photo_url"] = image_url
             
             else:
@@ -115,7 +115,7 @@ def add_images_to_json(input_file, output_file):
             time.sleep(1)
 
 
-        if (processed_count + 1) % batch_size == 0 or (processed_count + 1) == total_foods:
+        if (processed_count) % batch_size == 0 or (processed_count == total_foods):
             # Append the batch of new foods to the output file
             food_options_covered.extend(new_foods_to_add)
             try:

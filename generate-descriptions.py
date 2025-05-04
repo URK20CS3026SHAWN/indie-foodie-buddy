@@ -157,7 +157,7 @@ def add_descriptions_to_json(input_file, output_file):
             time.sleep(1)
         
 
-        if (processed_count + 1) % batch_size == 0 or (processed_count + 1) == total_foods:
+        if (processed_count % batch_size == 0) or (processed_count == total_foods):
             # Append the batch of new foods to the output file
             food_options_covered.extend(new_foods_to_add)
             try:
