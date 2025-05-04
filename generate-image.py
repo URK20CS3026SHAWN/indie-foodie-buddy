@@ -68,7 +68,7 @@ def add_images_to_json(input_file, output_file):
     processed_count = 0
     
     for food in food_options:
-        if "\\" not in food["name"]:
+        if "\\" not in food["name"] and food["description"]!="Not a dish" and not food.get("photo_url", ""):
 
             print(f"\nProcessing: {processed_count+1}/{total_foods} - {food['name']}")
             start_time = time.time()  # Record start time
@@ -82,7 +82,7 @@ def add_images_to_json(input_file, output_file):
             logging.info(f"Processed: {processed_count}/{total_foods} - {food['name']} ({time_taken:.2f} seconds)")
             
             #Store the image in images
-            image_url = f"Image URL Here"
+            image_url = f"https://raw.githubusercontent.com/URK20CS3026SHAWN/indie-foodie-buddy/refs/heads/main/images/food_images/+{food['name']}.png"
             food["photo_url"] = image_url
 
 

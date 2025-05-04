@@ -53,81 +53,122 @@ def generate_details(food_name, origin, preference):
 
 
 def add_descriptions_to_json(input_file, output_file):
-    """Loads JSON data, adds descriptions, and saves the updated data."""
+    """
+    Processes food options from an input file, checks for existing entries in the output file,
+    and processes only the new food items.
 
-    with open(input_file, "r") as f:
-        food_options = json.load(f)
+    Args:
+        input_file (str): The path to the input JSON file.
+        output_file (str): The path to the output JSON file.
+    """
+    try:
+        with open(input_file, "r") as f:
+            food_options = json.load(f)
+    except FileNotFoundError:
+        print(f"Error: Input file not found at {input_file}")
+        return
+    except json.JSONDecodeError:
+        print(f"Error: Invalid JSON in input file {input_file}")
+        return
 
-    total_foods = len(food_options)
+    try:
+        with open(output_file, "r") as of:
+            food_options_covered = json.load(of)
+    except FileNotFoundError:
+        print(f"Output file not found at {output_file}. Creating a new one.")
+        food_options_covered = []
+    except json.JSONDecodeError:
+        print(f"Warning: Invalid JSON in output file {output_file}. Overwriting it.")
+        food_options_covered = []
+
+    # Create a set of food names from the output file for efficient checking.
+    existing_dishes = {entry["name"] for entry in food_options_covered}
+
+    total_foods = len(food_options) - len(existing_dishes)
     processed_count = 0
+    new_foods_to_add = []  # List to store new foods
+    batch_size = 100  # Number of foods to process before appending to the output file
+
 
     for food in food_options:
-        if "\\" not in food["name"]:
-            print(f"\nProcessing: {processed_count+1}/{total_foods} - {food['name']}")
-            start_time = time.time()  # Record start time
-            full_details = generate_details(
-                food["name"],
-                food["origin"],
-                food["Preference"], #food["preference"]
-            )
-            if full_details == "Not a dish":
-                print(f"Not a dish: {food['name']}")
-                processed_count += 1
-                continue
+        if food["name"] not in existing_dishes:
+            if "\\" not in food["name"] and food.get("description", "")=="":
+                print(f"\nProcessing: {processed_count+1}/{total_foods} - {food['name']}")
+                start_time = time.time()  # Record start time
+                full_details = generate_details(
+                    food["name"],
+                    food["origin"],
+                    food["preference"], #food["preference"]
+                )
+                if full_details == "Not a dish":
+                    print(f"Not a dish: {food['name']}")
+                    processed_count += 1
+                    continue
 
-            print(full_details+"\n")
-            details = parse_food_details_string(full_details)
-            if details is not None:
-                if food["name"] in details:
-                    details = details[food["name"]]
-                if "details" in details:
-                    details = details["details"]
+                print(full_details+"\n")
+                details = parse_food_details_string(full_details)
+                if details is not None:
+                    if food["name"] in details:
+                        details = details[food["name"]]
+                    if "details" in details:
+                        details = details["details"]
                     if type(details) == list and len(details) == 1:
                         details = details[0]
+                    if type(details) == dict:
+                        food["description"] = details.get("description", "")
+                        if not food["description"]:
+                            print(f"Error parsing description for {food['name']}")
+
+                        food["flavour_profile"] = details.get("flavour_profile", "")
+                        if not food["flavour_profile"]:
+                            print(f"Error parsing flavour profile for {food['name']}")
+
+                        food["ingredients"] = details.get("ingredients", {})
+                        if not food["ingredients"]:
+                            print(f"Error parsing ingredients for {food['name']}")
+
+                        food["cooking_instructions"] = details.get("cooking_instructions", "")
+                        if not food["cooking_instructions"]:
+                            print(f"Error parsing cooking instructions for {food['name']}")
+
+                        food["expertise_level"] = details.get("expertise_level", "")
+                        if not food["expertise_level"]:
+                            print(f"Error parsing expertise level for {food['name']}")
                     else:
-                        food_details = {}
-                        for detail in details_list:
-                            food_details.update(detail)
-                        details = food_details
+                        print(f"Error parsing details for {food['name']}")
+                        print(details)
+                        continue
 
-                food["description"] = details.get("description", "")
-                if not food["description"]:
-                    print(f"Error parsing description for {food['name']}")
+                processed_count += 1
+                end_time = time.time()  # Record end time
+                time_taken = end_time - start_time
+                logging.info(
+                    f"Processed: {processed_count}/{total_foods} - {food['name']} ({time_taken:.2f} seconds)"
+                )
 
-                food["flavour_profile"] = details.get("flavour_profile", "")
-                if not food["flavour_profile"]:
-                    print(f"Error parsing flavour profile for {food['name']}")
+            else:
+                food["description"] = ""
+                processed_count += 1
+                logging.info(
+                    f"Couldnt process: {processed_count}/{total_foods} - {food['name']}"
+                )
+            new_foods_to_add.append(food)  # Keep the original food data
+            # Adding a delay to avoid rate limit
+            time.sleep(1)
+        
 
-                food["ingredients"] = details.get("ingredients", {})
-                if not food["ingredients"]:
-                    print(f"Error parsing ingredients for {food['name']}")
+        if (processed_count + 1) % batch_size == 0 or (processed_count + 1) == total_foods:
+            # Append the batch of new foods to the output file
+            food_options_covered.extend(new_foods_to_add)
+            try:
+                with open(output_file, "w") as of:
+                    json.dump(food_options_covered, of, indent=4)
+                print(f"Appended {len(new_foods_to_add)} foods to {output_file}")
+            except Exception as e:
+                print(f"Error writing to output file {output_file}: {e}")
+                return
+            new_foods_to_add = []  # Clear the list for the next batch
 
-                food["cooking_instructions"] = details.get("cooking_instructions", "")
-                if not food["cooking_instructions"]:
-                    print(f"Error parsing cooking instructions for {food['name']}")
-
-                food["expertise_level"] = details.get("expertise_level", "")
-                if not food["expertise_level"]:
-                    print(f"Error parsing expertise level for {food['name']}")
-
-            processed_count += 1
-            end_time = time.time()  # Record end time
-            time_taken = end_time - start_time
-            logging.info(
-                f"Processed: {processed_count}/{total_foods} - {food['name']} ({time_taken:.2f} seconds)"
-            )
-
-        else:
-            food["description"] = ""
-            processed_count += 1
-            logging.info(
-                f"Processed: {processed_count}/{total_foods} - {food['name']} ({time_taken:.2f} seconds)"
-            )
-        # Adding a delay to avoid rate limit
-        time.sleep(2)
-
-    with open(output_file, "w") as f:
-        json.dump(food_options, f, indent=2)
 
 
 def parse_food_details_string(json_string):
@@ -151,7 +192,7 @@ def parse_food_details_string(json_string):
 def main():
     # File paths
     input_file = "./data/foodOptions-all.json"
-    output_file = "./data/foodOptions_with_descriptions.json"
+    output_file = "./data/foodOptions_with_descriptionsAll.json"
 
     # Add descriptions and save the updated JSON
     add_descriptions_to_json(input_file, output_file)
